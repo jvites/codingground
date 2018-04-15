@@ -1,0 +1,1112 @@
+Chapter 5: Thermochemistry: Energy Changes in Reactions
+
+MULTIPLE CHOICE
+
+	1.	Thermochemistry is the study of how ________ is produced and consumed during chemical reactions.
+a.kinetic energyd.workb.temperaturee.potential energyc.energy
+
+ANS:	C	DIF:	Easy	REF:	5.1	
+OBJ:	Define the terms thermodynamics and thermochemistry.	MSC:	Remembering
+
+	2.	The capacity to do work is a definition of ________
+a.heat.d.energy.b.thermochemistry.e.ambition.c.work.
+
+ANS:	D	DIF:	Easy	REF:	5.2	
+OBJ:	Define the term energy, and its relationship to work.	MSC:	Remembering
+
+	3.	Which statement A–D about the relationship between energy and work is not correct?
+a.It takes energy to do work.b.When work is done, the energy of something must increase.c.When a force moves an object some distance, the energy of the object increases.d.When water turns a waterwheel, work is done and the energy of the water decreases.e.Statements A–D all are correct.
+
+ANS:	E	DIF:	Easy	REF:	5.2	
+OBJ:	Define the term energy, and its relationship to work.	MSC:	Understanding
+
+	4.	Heat is best defined as ________
+a.a substance that increases the temperature and causes water to boil.b.a form of potential energy.c.a form of work.d.the total energy that a substance has.e.energy transferred as the result of a temperature difference.
+
+ANS:	E	DIF:	Easy	REF:	5.1	OBJ:	Define the term heat.
+MSC:	Remembering		
+
+	5.	Work requires ________
+a.a use of potential energy.d.a change in temperature.b.a release of kinetic energy.e.the application of a force.c.that a force moves an object.
+
+ANS:	C	DIF:	Easy	REF:	5.2	OBJ:	Define the term work.
+MSC:	Remembering		
+
+	6.	Work is done when a force moves an object some distance. Newton defined force as mass times acceleration. Acceleration is the rate at which velocity changes. What are the units of work?
+a.kg ? m2 ? s?2d.kg2 ? m2 ? s?2b.kg ? m2 ? s?1e.kg ? mc.kg ? m ? s?2
+
+ANS:	A	DIF:	Medium	REF:	5.2	OBJ:	Define the term work.
+MSC:	Remembering		
+
+	7.	Energy that an object has by virtue of its position is called ________
+a.kinetic energy.d.heat.b.thermal energy.e.mechanical energy.c.potential energy.
+
+ANS:	C	DIF:	Easy	REF:	5.2	
+OBJ:	Distinguish between potential energy and kinetic energy.	MSC:	Remembering
+
+	8.	Energy that an object has by virtue of its motion is called ________
+a.kinetic energy.d.orbital energy.b.thermal energy.e.mechanical energy.c.potential energy.
+
+ANS:	A	DIF:	Easy	REF:	5.2	
+OBJ:	Distinguish between potential energy and kinetic energy.	MSC:	Remembering
+
+	9.	Which statement A–D about a state function is not correct?
+a.The value of a state function can change along a path.b.The final value of a state function is independent of the path taken to reach the final state.c.All forms of energy must be state functions because energy is conserved in any process.d.Examples of state functions only occur in chemistry and physics and not in real life.e.Statements A–D all are correct.
+
+ANS:	D	DIF:	Easy	REF:	5.2	
+OBJ:	Define the term state function and provide examples.	MSC:	Remembering
+
+	10.	The kinetic energy associated with the random motion of molecules is called ________
+a.motional energy.d.microscopic energy.b.work.e.thermal energy.c.heat.
+
+ANS:	E	DIF:	Easy	REF:	5.2	
+OBJ:	Identify forms of energy and their characteristics.	MSC:	Remembering
+
+	11.	A diver jumps off a diving board. At which point in the diagram below will the diver possess the greatest potential energy?
+
+
+a.Ad.Db.Be.Ec.C
+
+ANS:	C	DIF:	Easy	REF:	5.2	
+OBJ:	Identify forms of energy and their characteristics.	MSC:	Understanding
+
+	12.	A diver jumps off a diving board. At which point in the diagram below will the diver possess the greatest kinetic energy?
+
+
+a.Ad.Db.Be.Ec.C
+
+ANS:	E	DIF:	Easy	REF:	5.2	
+OBJ:	Identify forms of energy and their characteristics.	MSC:	Understanding
+
+	13.	If a mass of 100.0 g moves through a distance of 50.0 m with an acceleration of 25.0 m s?2, how much work was necessary to move the mass? F ? ma, where F is force, m is mass, and a is acceleration. (1 J ? 1 kg m2 s?2)
+a.125 kJd.12.5 Jb.12.5 kJe.2.5 Jc.125 J
+
+ANS:	C	DIF:	Medium	REF:	5.2	
+OBJ:	Calculate the work done when a force moves an object.	MSC:	Applying
+
+	14.	What is the kinetic energy of a skier weighing 175 lb traveling 60 mph?
+(2.205 lb ? 1 kg, 1 mi ? 1.609 km, 1 J ? 1 kg m2s?2)
+a.29 kJd.1.1 kJb.57 kJe.130 kJc.2.1 kJ
+
+ANS:	A	DIF:	Medium	REF:	5.2	
+OBJ:	Calculate the kinetic energy of an object given the mass and speed.
+MSC:	Applying
+
+	15.	According to Coulomb’s law, which ionic compound A–D has the smallest electrostatic potential energy (i.e., closest to zero)? The size of the anion increases in the order F ? Cl ? Br ? I.
+a.NaFb.NaClc.NaBrd.NaIe.All have the same potential energy because the anions all have ?1 charges.
+
+ANS:	D	DIF:	Medium	REF:	5.2	
+OBJ:	Describe how the electrostatic potential energy varies with the charge on two particles and the distance between them.		MSC:	Understanding		
+
+	16.	According to Coulomb’s law, which ionic compound A–D has the largest electrostatic potential energy (i.e., largest in magnitude)?
+a.NaClb.CaCl2c.AlCl3d.CoCl2e.All have the same potential energy because the chloride anions all have ?1 charges.
+
+ANS:	C	DIF:	Medium	REF:	5.2	
+OBJ:	Describe how the electrostatic potential energy varies with the charge on two particles and the distance between them.		MSC:	Understanding		
+
+	17.	Assuming that the charge of the ions remain constant in all cases, which of the following ion pairs has the greatest electrostatic potential energy (i.e., largest in magnitude)?
+
+a.d.b.e.c.
+
+ANS:	B	DIF:	Medium	REF:	5.2	
+OBJ:	Describe how the electrostatic potential energy varies with the charge on two particles and the distance between them.		MSC:	Understanding		
+
+	18.	Assuming that the distance between ions remains constant in all cases, which of the following ion pairs has the greatest electrostatic potential energy (i.e., largest in magnitude)?
+a.d.b.e.c.
+
+ANS:	A	DIF:	Medium	REF:	5.2	
+OBJ:	Describe how the electrostatic potential energy varies with the charge on two particles and the distance between them.		MSC:	Understanding		
+
+	19.	Assuming that the distances between the two ions are the same in all cases, which of the following ion pairs has the greatest electrostatic potential energy (i.e., largest in magnitude)?
+a.d.b.e.c.
+
+ANS:	D	DIF:	Medium	REF:	5.2	
+OBJ:	Describe how the electrostatic potential energy varies with the charge on two particles and the distance between them.		MSC:	Understanding		
+
+	20.	Assuming that the distances between the two ions are the same in all cases, which of the following ion pairs has the smallest electrostatic potential energy (i.e., smallest in magnitude)?
+a.d.b.e.c.
+
+ANS:	E	DIF:	Medium	REF:	5.2	
+OBJ:	Describe how the electrostatic potential energy varies with the charge on two particles and the distance between them.		MSC:	Understanding		
+
+	21.	Which statement A–D about a system and its surroundings is not correct?
+a.A capped thermos bottle is an example of an isolated system.b.A metal box on a table is an example of a closed system.c.A cup of coffee is an example of an open system.d.No matter or energy can be exchanged between the surroundings and a closed system.e.Statements A–D all are correct.
+
+ANS:	D	DIF:	Easy	REF:	5.3	
+OBJ:	Distinguish between a system and its surroundings, and among isolated, closed, and open systems.	MSC:	Remembering		
+
+	22.	The following diagrams illustrate the flow of energy (q) and work (w) in different processes. Which one is definitely an exothermic process?
+a.c.b.d.
+
+ANS:	C	DIF:	Easy	REF:	5.3	
+OBJ:	Define the terms endothermic and exothermic, and identify processes as exothermic or endothermic.	MSC:	Understanding		
+
+	23.	The following diagrams illustrate the flow of energy (q) and work (w) in different processes. Which one is definitely not an endothermic process?
+a.d.b.e.c.
+
+ANS:	A	DIF:	Easy	REF:	5.3	
+OBJ:	Define the terms endothermic and exothermic, and identify processes as exothermic or endothermic.	MSC:	Understanding		
+
+	24.	Which of the following is an endothermic process for the system? In each case, the “system” is underlined.
+a.a block of cheese being cooled in a refrigeratorb.a hot pack being used to warm a sore musclec.a heat pump being used to warm a housed.a candle burning at a dinner tablee.ice cubes freezing in the refrigerator
+
+ANS:	E	DIF:	Medium	REF:	5.3	
+OBJ:	Define the terms endothermic and exothermic, and identify processes as exothermic or endothermic.	MSC:	Understanding		
+
+	25.	During a(n) ________ process, energy is transferred to the system from the surroundings.
+a.exothermicd.thermochemicalb.endothermice.physicalc.thermodynamic
+
+ANS:	B	DIF:	Easy	REF:	5.3	
+OBJ:	Define the terms endothermic and exothermic, and identify processes as exothermic or endothermic.	MSC:	Remembering		
+
+	26.	During a(n) ________ process, energy is transferred from the system to the surroundings.
+a.exothermicd.thermochemicalb.endothermice.physicalc.thermodynamic
+
+ANS:	A	DIF:	Easy	REF:	5.3	
+OBJ:	Define the terms endothermic and exothermic, and identify processes as exothermic or endothermic.	MSC:	Remembering		
+
+	27.	Which arrow in the following diagrams represents an endothermic phase transition?
+
+a.I and II onlyb.I and III onlyc.II and IV onlyd.III and IV onlye.All represent exothermic transitions.
+
+ANS:	B	DIF:	Easy	REF:	5.3	
+OBJ:	Define the terms endothermic and exothermic, and identify processes as exothermic or endothermic.	MSC:	Remembering		
+
+	28.	Which arrow in the following diagrams represents an exothermic phase transition?
+
+a.I and II onlyb.II onlyc.I, II, and IV onlyd.III onlye.All represent endothermic transitions.
+
+ANS:	D	DIF:	Easy	REF:	5.3	
+OBJ:	Define the terms endothermic and exothermic, and identify processes as exothermic or endothermic.	MSC:	Remembering		
+
+	29.	When solid sodium hydroxide (NaOH) pellets are dissolved in water, the temperature of the water and beaker rises. This is an example of ________
+a.an exothermic process.d.a thermodynamic cycle.b.an endothermic process.e.all solvation processes.c.a combustion reaction.
+
+ANS:	A	DIF:	Easy	REF:	5.3	
+OBJ:	Define the terms endothermic and exothermic, and identify processes as exothermic or endothermic.	MSC:	Understanding		
+
+	30.	If a chemical reaction causes the temperature of the container to drop, it is a(n) ________ reaction.
+a.endothermicd.fastb.exothermice.slowc.spontaneous
+
+ANS:	A	DIF:	Easy	REF:	5.3	
+OBJ:	Define the terms endothermic and exothermic, and identify processes as exothermic or endothermic.	MSC:	Understanding		
+
+	31.	A student dissolving some ammonium nitrate (NH4NO3) in water notices that the beaker gets cooler as the solid dissolves. This is an example of ________
+a.an exothermic process.d.a thermodynamic cycle.b.an endothermic process.e.all solvation processes.c.a combustion reaction.
+
+ANS:	B	DIF:	Medium	REF:	5.3	
+OBJ:	Define the terms endothermic and exothermic, and identify processes as exothermic or endothermic.	MSC:	Understanding		
+
+	32.	Internal energy is defined as ________
+a.the total kinetic energy of all the system components.b.the total potential energy of all the system components.c.the total of the potential and kinetic energies of all the system components.d.the total potential energy minus the total kinetic energy of all the system components.e.the total kinetic energy minus the total potential energy of all the system components.
+
+ANS:	C	DIF:	Easy	REF:	5.3	
+OBJ:	Explain what is meant by the term internal energy of a system.	
+MSC:	Remembering		
+
+	33.	Which one of the following statements is not correct?
+a.When dry ice sublimes to form CO2(g), the internal energy of the surroundings decreases.b.In any physical process, such as dew forming on grass or carbon dioxide subliming, the internal energy of the system does not change.c.When dew forms on grass overnight, the energy of the water molecules decreases.d.When dew forms on grass overnight, the energy of the surroundings (grass, air, etc.) increases.e.When dry ice sublimes to form CO2(g), the energy of the carbon dioxide increases.
+
+ANS:	B	DIF:	Medium	REF:	5.3	
+OBJ:	Identify how the internal energy of a system or the surroundings changes as the result of some process.	MSC:	Understanding		
+
+	34.	Which of the following bar charts shows the correct internal energy changes that occur in a pitcher of iced tea (system), the refrigerator (surroundings), and the universe as the iced tea in the refrigerator cools?
+a.c.b.d.
+
+ANS:	D	DIF:	Medium	REF:	5.3	
+OBJ:	Identify how the internal energy of a system or the surroundings changes as the result of some process.	MSC:	Understanding		
+
+	35.	Which of the following bar charts shows the correct internal energy changes that occur when a propane grill is used to cook a steak? (Consider the propane combustion reaction to be the system. Consider the grill, steak, and everything else to be the surroundings.)
+a.c.b.d.
+
+ANS:	D	DIF:	Medium	REF:	5.3	
+OBJ:	Identify how the internal energy of a system or the surroundings changes as the result of some process.	MSC:	Understanding		
+
+	36.	The first law of thermodynamics implies that ________
+a.energy is transferred from the surroundings to the system during a combustion reaction.b.if a system loses energy to the surroundings, then the surroundings must do an equal amount of work on the system.c.if the surroundings gain energy from the system, then the system must lose an equal amount of energy.d.energy is transferred from the system to the surroundings during a combustion reaction.e.if a system does work on the surroundings, then the surroundings must transfer an equal amount of energy to the system.
+
+ANS:	C	DIF:	Medium	REF:	5.3	
+OBJ:	Identify how the internal energy of a system or the surroundings changes as the result of some process.	MSC:	Understanding		
+
+	37.	Which of the changes A–D will always increase the internal energy of a system?
+a.The system gains energy and performs work.b.The system gains energy and work is performed on it.c.The system loses energy and performs work.d.The system loses energy and work is performed on it.e.None of the changes A–D will always increase the internal energy of a system.
+
+ANS:	B	DIF:	Medium	REF:	5.3	
+OBJ:	Identify how the internal energy of a system or the surroundings changes as the result of some process.	MSC:	Understanding		
+
+	38.	According to the first law of thermodynamics, which of the changes A–D will always increase the internal energy of a system? (q ? energy transferred, and w ? work done)
+a.q ? 0, w ? 0b.q ? 0, w ? 0c.q ? 0, w ? 0d.q ? 0, w ? 0e.None of the changes A–D will always increase the internal energy of a system.
+
+ANS:	B	DIF:	Medium	REF:	5.3	
+OBJ:	Identify how the internal energy of a system or the surroundings changes as the result of some process.	MSC:	Understanding		
+
+	39.	Which statement A–D about the first law of thermodynamics  is not correct?
+a. is the change in the internal energy of a system.b.q is the energy added to or removed from the system.c.q usually is called heat.d.w is the energy added to or removed from the system by a deformation; that is, a force moves something.e.The statements A–D are all correct.
+
+ANS:	E	DIF:	Easy	REF:	5.3	
+OBJ:	Identify how the internal energy of a system or the surroundings changes as the result of some process.	MSC:	Remembering		
+
+	40.	What is the change in internal energy (?E) when a system is heated with 35 J of energy while it does 15 J of work?
+a.?50 Jd.?50 Jb.?20 Je.?35 Kc.?20 J
+
+ANS:	B	DIF:	Easy	REF:	5.3	
+OBJ:	Explain how the internal energy of a system can change, and calculate changes in the internal energy of a system.	MSC:	Applying
+
+	41.	What is the change in internal energy (?E) of a system when it loses 10 kJ of energy and 5,000 J of work is done on the system?
+a.?15 kJd.?5,010 Jb.?10 kJe.?4,990 Jc.?5 kJ
+
+ANS:	C	DIF:	Easy	REF:	5.3	
+OBJ:	Explain how the internal energy of a system can change, and calculate changes in the internal energy of a system.	MSC:	Applying
+
+	42.	In a steam engine, steam in a cylinder expands against a piston, exerting 10 atm of external pressure. The volume of the cylinder increases by 10 L and simultaneously the steam cools, losing 3,000 kJ of energy to the surroundings. What is the change in energy of the steam? (101.3 J ? 1 L atm)
+a.?3,010 kJd.?13,135 kJb.?3,001 kJe.?2,990 kJc.?3,100 kJ
+
+ANS:	A	DIF:	Medium	REF:	5.3	
+OBJ:	Explain how the internal energy of a system can change, and calculate changes in the internal energy of a system.	MSC:	Applying
+
+	43.	Steam in a cylinder is compressed by a piston exerting a constant pressure of 5 atm. The volume of the cylinder decreases by 15 L and simultaneously the steam is cooled, losing 105 kJ of energy as heat. How much energy, total, was gained or lost by the steam in this process?  (101.3 J ? 1 L atm)
+a.?30.0 kJd.?180.0 kJb.?97.4 kJe.113 kJc.?113 kJ
+
+ANS:	C	DIF:	Medium	REF:	5.3	
+OBJ:	Explain how the internal energy of a system can change, and calculate changes in the internal energy of a system.	MSC:	Applying
+
+	44.	Which statement A–D about the first law of thermodynamics  is not correct?
+a.q is the energy added to or removed from the system by a temperature difference.b.w is the energy added to or removed from the system by a deformation; that is, a force moves something.c.If the only work that is done is P–V work, then q ? the change in enthalpy.d.?Esystem is the change in the Gibbs free energy of the system.e.The statements A–D are all correct.
+
+ANS:	D	DIF:	Easy	REF:	5.3	
+OBJ:	Explain how the internal energy of a system can change, and calculate changes in the internal energy of a system.	MSC:	Remembering		
+
+	45.	Which statement A–D about energy units is not correct?
+a.The SI unit of energy is the Joule (J).b.In terms of SI base units, 1 J ? 1 kg m2 s?2.c.A nutritional calorie (1 Cal) is equal to 1,000 cal.d.A nutritional calorie (1 Cal) is 4.184 kJ.e.Statements A–D all are correct.
+
+ANS:	E	DIF:	Easy	REF:	5.3	
+OBJ:	Specify how a calorie (cal) and nutritional calorie (Cal) are defined, and write the equivalence statements relating these units to the SI unit of energy.	MSC:	Remembering
+
+	46.	How much work does a gas do when it expands against a constant pressure of 0.500 atm from a volume of 50.00 mL to a volume of 350.00 mL? (101.3 J ? 1 L atm)
+a.15.2 Jc.?15.2 Jb.0.150 Jd.?0.152 J
+
+ANS:	C	DIF:	Easy	REF:	5.3	
+OBJ:	Explain what is meant by pressure–volume work, and calculate pressure–volume work for a given situation.	MSC:	Applying
+
+	47.	An expanding gas does 175 kJ of work on its surroundings at a constant pressure of 5.55 atm. If the gas initially occupied 125 mL, what is the final volume of the gas? (101.3 J ? 1 L atm)
+a.31.5 Ld.311 Lb.31,500 mLe.31,500 Lc.311 mL
+
+ANS:	D	DIF:	Medium	REF:	5.3	
+OBJ:	Explain what is meant by pressure–volume work, and calculate pressure–volume work for a given situation.	MSC:	Applying
+
+	48.	The best definition of the enthalpy change is ________
+a.the energy that is transferred into or out of a system because of a temperature difference when the pressure is constant and only PV work is done.b.the change in internal energy of a system when the pressure is constant.c.the change in internal energy of a system when the volume is constant.d.the energy that is transferred into or out of a system when the pressure is constant and no work is done.e.the change in internal energy of a system when the pressure is constant and no work is done.
+
+ANS:	A	DIF:	Easy	REF:	5.4	
+OBJ:	Define the terms enthalpy and enthalpy change.	MSC:	Remembering
+
+	49.	A pot of water is heated with 10 J of energy at constant pressure. What is the enthalpy change (?H) for this process?
+a.?10 Jd.? 10 Jb.? 10 Je.0c.?10 J
+
+ANS:	C	DIF:	Easy	REF:	5.4	
+OBJ:	Determine the value and sign of the enthalpy change for a given situation.
+MSC:	Understanding		
+
+	50.	During an exothermic process, ________ for the system.
+a.q ? 0d.?H ? 0b.w ? 0e.q ? w ? 0c.?H ? 0
+
+ANS:	D	DIF:	Medium	REF:	5.4	
+OBJ:	Determine the value and sign of the enthalpy change for a given situation.
+MSC:	Remembering		
+
+	51.	You heat a cup of coffee in a microwave oven. It absorbs 40 kJ of energy from the microwave, and the volume expands. Which one of the following statements correctly describes the relationship between the change in enthalpy ?H and the change in internal energy ?E of the coffee? (? means greater than, ? means less than)
+a.?H  40 kJ, ?E  40 kJd.?H  40 kJ, ?E  40 kJb.?H  40 kJ, ?E  40 kJe.?H  40 kJ, ?E  40 kJc.?H  40 kJ, ?E  40 kJ
+
+ANS:	A	DIF:	Medium	REF:	5.4	
+OBJ:	Determine the difference between the change in enthalpy and the change in internal energy.
+MSC:	Understanding		
+
+	52.	The change in enthalpy and the change in internal energy of a system always will be equal when ________
+a.the process is exothermic.d.the pressure is constant.b.the process is endothermic.e.the volume is constant.c.the process is isothermal.
+
+ANS:	E	DIF:	Easy	REF:	5.4	
+OBJ:	Determine the difference between the change in enthalpy and the change in internal energy.
+MSC:	Remembering		
+
+	53.	The heating curve for a substance is shown below. The substance initially is a solid. It then becomes a liquid and a gas. Which of the line segments (I–V) represents the solid-to-liquid phase transition?
+
+a.Id.IVb.IIe.Vc.III
+
+ANS:	B	DIF:	Easy	REF:	5.5	
+OBJ:	Plot and analyze a heating curve in terms of phase changes.	
+MSC:	Understanding		
+
+	54.	A heating curve for some substance is shown below. Which of the line segments (I–V) represents heating of the liquid?
+
+a.Id.IVb.IIe.Vc.III
+
+ANS:	C	DIF:	Easy	REF:	5.5	
+OBJ:	Plot and analyze a heating curve in terms of phase changes.	
+MSC:	Understanding		
+
+	55.	A cooling curve for some substance is shown below. Which of the line segments (I–V) represents the liquid-to-solid transition?
+
+a.Id.IVb.IIe.Vc.III
+
+ANS:	D	DIF:	Easy	REF:	5.5	
+OBJ:	Plot and analyze a heating/cooling curve in terms of phase changes.
+MSC:	Understanding		
+
+	56.	A cooling curve for some substance is shown below. Which of the line segments (I–V) represents cooling of the gas?
+
+a.Id.IVb.IIe.Vc.III
+
+ANS:	A	DIF:	Easy	REF:	5.5	
+OBJ:	Plot and analyze a heating/cooling curve in terms of phase changes.
+MSC:	Understanding		
+
+	57.	Which statement below regarding the various heat capacities is not correct?
+a.A heterogeneous object cannot be characterized by a specific heat capacity.b.The molar heat capacity of a substance always is larger than the specific heat capacity of the substance.c.The heat capacity of an object depends on the mass of the object.d.The specific heat capacity of an object does not depend on the mass of the object.e.The difference between the specific heat capacity and heat capacity of an object does not depend on the mass of the object.
+
+ANS:	E	DIF:	Medium	REF:	5.5	
+OBJ:	Distinguish between the terms heat capacity, specific heat capacity, and molar heat capacity.
+MSC:	Understanding		
+
+	58.	10.0 g of ammonium nitrate (?Hsoln ? 25.7 kJ/mol, molar mass ? 80.0 g/mol) dissolves in 100.0 g of water. What is the change in temperature of the solution? Assume the specific heat capacity of the solution is 4.2 J g?1 oC?1.
+a.7.0Cd.7.6Cb.7.6Ce.56Cc.7.0C
+
+ANS:	C	DIF:	Medium	REF:	5.5	
+OBJ:	Calculate the amount of energy transferred in a physical or chemical process.
+MSC:	Applying
+
+	59.	5.0 g of potassium hydroxide (molar mass ? 56.1 g/mol) dissolves in 100.0 g of water and the temperature of the solution increases by . Calculate the ?Hsoln for potassium hydroxide. Assume the specific heat capacity of the solution is 
+a.57 kJ/mold.26 kJ/molb.57 kJ/mole.75 kJ/molc.26 kJ/mol
+
+ANS:	B	DIF:	Medium	REF:	5.5	
+OBJ:	Calculate the amount of energy transferred in a physical or chemical process.
+MSC:	Applying
+
+	60.	10.0 g of lithium fluoride (molar mass  25.94 g/mol) that dissolves in 50.0 g of water results in a decrease in temperature of . What is the enthalpy of solution for lithium fluoride (?Hsoln)? Assume the specific heat capacity of the solution is  
+a.3.91 kJ/mold.4.70 kJ/molb.3.91 kJ/mole.0.181 kJ/molc.4.70 kJ/mol
+
+ANS:	D	DIF:	Difficult	REF:	5.5	
+OBJ:	Calculate the amount of energy transferred in a physical or chemical process.
+MSC:	Applying
+
+	61.	What will be the final temperature of a 10.0 g piece of iron (CP ? 25.09 J/(mol · )) initially at 25?C, if it is supplied with 9.5 J from a stove?
+a.d.b.e.c.
+
+ANS:	B	DIF:	Easy	REF:	5.5	
+OBJ:	Use heat capacity, specific heat capacity, and molar heat capacity appropriately in analysis or calculations.	MSC:	Applying
+
+	62.	What is the heat capacity (Cp) of a 7.5 g piece of tin if its temperature changes by 12.3?C when it is supplied with 20 J from a Bunsen burner?
+a.d.b.e.c.
+
+ANS:	A	DIF:	Easy	REF:	5.5	
+OBJ:	Use heat capacity, specific heat capacity, and molar heat capacity appropriately in analysis or calculations.	MSC:	Applying
+
+	63.	At a certain elevation, the boiling point of water is 98.5. How much energy is needed to heat 35.0 mL of water to the boiling point at this elevation if the water initially was at 23.4?C?
+(CP ? 75.38 J/(mol · ), d ? 1.00 g/mL)
+a.8.5 kJd.1.0 kJb.11.0 kJe.25.6 kJc.0.93 kJ
+
+ANS:	B	DIF:	Easy	REF:	5.5	
+OBJ:	Use heat capacity, specific heat capacity, and molar heat capacity appropriately in analysis or calculations.	MSC:	Applying
+
+	64.	Which of the following objects will cool the fastest from the same initial temperature, assuming you had equal masses of each?
+a.an aluminum pan (cs ? 0.90 J/(g ? ))b.a copper pot (cs ? 0.39 J/(g ? ))c.an iron skillet (cs ? 0.45 J/(g ? ))d.a container of water (4.2 J/(g ? ))e.a container of ethanol (2.5 J/(g ? ))
+
+ANS:	B	DIF:	Easy	REF:	5.5	
+OBJ:	Use heat capacity, specific heat capacity, and molar heat capacity appropriately in analysis or calculations.	MSC:	Understanding		
+
+	65.	If 7.3 kJ of energy are required to change the temperature of water from 5.0 to 70.0, what was the volume of water? (cs ? 4.184 J/(g ? ), d ? 1.00 g/mL)
+a.27 mLd.0.73 mLb.37 mLe.75 mLc.110 mL
+
+ANS:	A	DIF:	Easy	REF:	5.5	
+OBJ:	Use heat capacity, specific heat capacity, and molar heat capacity appropriately in analysis or calculations.	MSC:	Applying
+
+	66.	The cooling system in an automobile holds 10.0 L of ethylene glycol antifreeze. How much energy is absorbed when the temperature of the ethylene glycol goes from 20 to 100? The density and specific heat capacity of ethylene glycol are 1.11 g/mL and 2.42 J/(g ? ), respectively.
+a.2,150 Jd.1,940 Jb.2,150 kJe.215 Jc.1,940 kJ
+
+ANS:	B	DIF:	Medium	REF:	5.5	
+OBJ:	Use heat capacity, specific heat capacity, and molar heat capacity appropriately in analysis or calculations.	MSC:	Applying
+
+	67.	The energy content of a Big Mac is 540 Cal. How much water can be heated from 20 to 90 by this amount of energy? 
+(cP(water) ? 1.00 g/mL, cs(water) ? 4.18 J/(g ? ), 1 Cal ? 1,000 cal ? 4.184 kJ)
+a.2.2 mLd.7.7 Lb.6.0 Le.6.0 mLc.7.7 mL
+
+ANS:	D	DIF:	Medium	REF:	5.5	
+OBJ:	Use heat capacity, specific heat capacity, and molar heat capacity appropriately in analysis or calculations.	MSC:	Applying
+
+	68.	You hold a 50 g sphere of copper in one hand and a 25 g sphere of aluminum in the other hand. If both absorb energy at the same rate, which will come to your body temperature first and why? The specific heat capacities are 0.4 J/(g ? ) for copper and 0.9 J/(g ? ) for aluminum.
+a.copper, because the specific heat is smallerb.aluminum, because the specific heat is largerc.aluminum, because the mass is smallerd.copper, because the heat capacity is smallere.Both reach body temperature at the same time because they absorb energy at the same rate.
+
+ANS:	D	DIF:	Medium	REF:	5.5	
+OBJ:	Use heat capacity, specific heat capacity, and molar heat capacity appropriately in analysis or calculations.	MSC:	Understanding		
+
+	69.	Ammonium nitrate sometimes is used in cold packs because its enthalpy of solvation in water is ?21 kJ/mol. What is the minimum amount of ammonium nitrate (80.05 g/mol) that is needed to cool a 1.0 L soft drink (d ? 1.0 g/mL, specific heat 4.5 J g?1 ) and its plastic bottle (heat capacity 50 J/K) from 30 to 5.
+a.540 gd.430 gb.320 ge.250 gc.110 g
+
+ANS:	D	DIF:	Difficult	REF:	5.5	
+OBJ:	Use heat capacity, specific heat capacity, and molar heat capacity appropriately in analysis or calculations.	MSC:	Applying
+
+	70.	Using the following data for water, determine the energy required to melt 1.00 mole of ice (solid water) at its melting point.
+
+Boiling point373 KMelting point273 KEnthalpy of vaporization2,260 J/gEnthalpy of fusion334 J/gSpecific heat capacity (solid)2.11 J/(g ? K)Specific heat capacity (liquid)4.18 J/(g ? K)Specific heat capacity (gas)2.08 J/(g ? K)
+a.11.7 kJd.6.02 kJb.23.2 kJe.2.26 kJc.4.96 kJ
+
+ANS:	D	DIF:	Easy	REF:	5.5	
+OBJ:	Use enthalpy of fusion and enthalpy of vaporization appropriately in analysis or calculations.
+MSC:	Applying
+
+	71.	Using the following data for water, determine the energy required to convert 2.00 moles of liquid water to steam (gas phase water) at its boiling point. 
+
+Boiling point373 KMelting point273 KEnthalpy of vaporization2,260 J/gEnthalpy of fusion334 J/gSpecific heat capacity (solid)2.11 J/(g ? K)Specific heat capacity (liquid)4.18 J/(g ? K)Specific heat capacity (gas)2.08 J/(g ? K)
+a.4.52 kJd.12.0 kJb.81.4 kJe.0.668 kJc.20.4 kJ
+
+ANS:	B	DIF:	Easy	REF:	5.5	
+OBJ:	Use enthalpy of fusion and enthalpy of vaporization appropriately in analysis or calculations.
+MSC:	Applying
+
+	72.	A 15 g piece of iron (CP ? 25.09 J/(mol · ?C)) is heated to a temperature of 95?C and placed into a bucket containing 4.5 gal of water (CP ? 75.38 J/(mol · ?C)) initially at 25?C. Eventually, ________
+a.the water will be warmer than the iron.b.the iron will be warmer than the water.c.the iron will be colder than the water.d.the iron and the water will be at the same temperature.e.the temperature will be the average of 95?C and 25?C.
+
+ANS:	D	DIF:	Easy	REF:	5.5	
+OBJ:	Calculate the final temperature when two objects come to thermal equilibrium.
+MSC:	Understanding		
+
+	73.	A 150 g piece of iron (CP ? 25.09 J/(mol ? )) was heated to a temperature of 47 and then placed in contact with a 275 g piece of copper at 20 (CP ? 25.46 J/(mol ? )). What was the final temperature of the two pieces of metal?
+a.25d.47b.20e.33c.30
+
+ANS:	C	DIF:	Medium	REF:	5.5	
+OBJ:	Calculate the final temperature when two objects come to thermal equilibrium.
+MSC:	Applying
+
+	74.	You have a summer job in a lead foundry. Your task is to identify how energy efficiency can be improved. You therefore need to know the minimum amount of energy it takes to raise 1 pound of lead (454 g) from room temperature (25) to its melting point (327) and then melt it. The specific heat capacity of lead is 0.159 J/(g ? ), the enthalpy of fusion is 24.7 J/g, and the molar mass is 207 g/mol.
+a.3.39 MJd.33.0 kJb.21.9 kJe.11.0 kJc.21.0 kJ
+
+ANS:	D	DIF:	Medium	REF:	5.5	
+OBJ:	Calculate the energy needed to raise or lower the temperature of a substance through phase transitions.	MSC:	Applying
+
+	75.	Using the following data for water, determine the final temperature when 100 g of ice at ?10?C is heated with 100 kJ of energy.
+
+Boiling point373 KMelting point273 KEnthalpy of vaporization2,260 J/gEnthalpy of fusion334 J/gSpecific heat capacity (solid)2.11 J/(g ? K)Specific heat capacity (liquid)4.18 J/(g ? K)Specific heat capacity (gas)2.08 J/(g ? K)
+a.95d.109b.100e.209c.382
+
+ANS:	B	DIF:	Medium	REF:	5.5	
+OBJ:	Calculate the energy needed to raise or lower the temperature of a substance through phase transitions.	MSC:	Applying
+
+	76.	Using the following data for water, determine the final temperature when 100 g of ice at ?10 is heated with 350 kJ of energy.
+
+Boiling point373 KMelting point273 KEnthalpy of vaporization2,260 J/gEnthalpy of fusion334 J/gSpecific heat capacity (solid)2.11 J/(g ? K)Specific heat capacity (liquid)4.18 J/(g ? K)Specific heat capacity (gas)2.08 J/(g ? K)
+a.309d.225b.100e.325c.382
+
+ANS:	D	DIF:	Medium	REF:	5.5	
+OBJ:	Calculate the energy needed to raise or lower the temperature of a substance through phase transitions.	MSC:	Applying
+
+	77.	Using the data shown below for water, determine in the following heating curve what region the water will be in when 25 g of liquid water at 35?C is provided with 11.5 kJ of energy.
+                                             
+Boiling point373 KMelting point273 KEnthalpy of vaporization2,260 J/gEnthalpy of fusion334 J/gSpecific heat capacity (solid)2.11 J/(g ? K)Specific heat capacity (liquid)4.18 J/(g ? K)Specific heat capacity (gas)2.08 J/(g ? K)
+a.Id.IVb.IIe.Vc.III
+
+ANS:	D	DIF:	Difficult	REF:	5.5	
+OBJ:	Calculate the energy needed to raise or lower the temperature of a substance through phase transitions.	MSC:	Applying
+
+	78.	Using the data shown below for water, determine in the following heating curve what region the water will be in when 50 g of ice at ?25 is provided with 35 kJ of energy.
+
+                                          
+
+Boiling point373 KMelting point273 KEnthalpy of vaporization2,260 J/gEnthalpy of fusion334 J/gSpecific heat capacity (solid)2.11 J/(g ? K)Specific heat capacity (liquid)4.18 J/(g ? K)Specific heat capacity (gas)2.08 J/(g ? K)
+a.Id.IVb.IIe.Vc.III
+
+ANS:	C	DIF:	Difficult	REF:	5.5	
+OBJ:	Calculate the energy needed to raise or lower the temperature of a substance through phase transitions.	MSC:	Applying
+
+	79.	In an experiment, 10.0 g of ice at ?20?C is converted into steam with a temperature of 110. How much energy is required for this process?
+??vap ? 2,260 J/g; Hfus ? 334 J/g; cs(ice) ? 2.06 J/(g ? ); cs(water) ? 4.18 J/(g ? ); 
+cs(steam) ? 1.99 J/(g ? ))
+a.30.7 kJd.30.3 kJb.26.8 kJe.38.7 kJc.34.9 kJ
+
+ANS:	A	DIF:	Difficult	REF:	5.5	
+OBJ:	Calculate the energy needed to raise or lower the temperature of a substance through phase transitions.	MSC:	Applying
+
+	80.	In an experiment, 5.0 g of ice at ?12 is converted into steam with a temperature of 120. How much energy is required for this process? 
+??vap ? 2,260 J/g;  Hfus ? 334 J/g;  cs(ice) ? 2.06 J/(g ? );  cs(water) ? 4.18 J/(g ? ); 
+cs(steam) ? 1.99 J/(g ? ))
+a.11.3 kJd.15.4 kJb.2.09 kJe.30.8 kJc.0.199 kJ
+
+ANS:	D	DIF:	Difficult	REF:	5.5	
+OBJ:	Calculate the energy needed to raise or lower the temperature of a substance through phase transitions.	MSC:	Applying
+
+	81.	In an experiment, 7.5 g of liquid water at 35 is converted into steam with a temperature of 145?C. How much energy is required for this process? 
+??vap ? 2,260 J/g;  Hfus ? 334 J/g;  cs(ice) ? 2.06 J/(g ? );  cs(water) ? 4.18 J/(g ? ); 
+cs(steam) ? 1.99 J/(g ? ))
+a.2.04 kJd.5.40 kJb.17.0 kJe.125 kJc.19.7 kJ
+
+ANS:	C	DIF:	Medium	REF:	5.5	
+OBJ:	Calculate the energy needed to raise or lower the temperature of a substance through phase transitions.	MSC:	Applying
+
+	82.	Given the following thermochemical equation detailing the combustion of glucose
+C6H12O6(s)  6O2(g)   CO2(g)  6H2O(g)     ?Hrxn ? ?2803 kJ/mol C6?H12O6
+determine the amount of glucose needed to release 30 kJ of energy.
+a.11.58 gd.1,930 gb.1.93 ge.5.35 gc.467 g
+
+ANS:	B	DIF:	Medium	REF:	5.6	
+OBJ:	Use thermochemical equations to determine the amount of energy released during a reaction or the mass of a substance needed to generate a given amount of energy.	
+MSC:	Applying
+
+	83.	Given the following thermochemical equation detailing the combustion of methane
+           CH4(g)  2O2(g)   CO2(g)  2H2O(g)     ?Hrxn ? ?802kJ/mol CH4
+determine the amount of energy released when 25.0 g of methane undergoes combustion.
+a.1.95   kJd.1250 kJb.3.12   kJe.2.01   kJc.453 kJ
+
+ANS:	D	DIF:	Medium	REF:	5.6	
+OBJ:	Use thermochemical equations to determine the amount of energy released during a reaction or the mass of a substance needed to generate a given amount of energy.	
+MSC:	Applying
+
+	84.	When 1.14 g of octane (molar mass ? 114 g/mol) reacts with excess oxygen in a constant volume calorimeter, the temperature of the calorimeter increases by 10.0?C. The heat capacity of the calorimeter is 6.97 kJ/?C. Determine the energy flow, q (reaction).
+a.?69.7 kJd.?6,970 kJb.?6,970 kJe.?6.97 kJc.?69.7 kJ
+
+ANS:	C	DIF:	Medium	REF:	5.6	
+OBJ:	Calculate thermochemical values using data from calorimetry experiments.
+MSC:	Applying
+
+	85.	When 2.50 g of sucrose (molar mass ? 342.30 g/mol) reacts with excess oxygen in a constant volume calorimeter, the temperature of the calorimeter increases by 9.17?C. The heat capacity of the calorimeter is 4.90 kJ/?C. Determine the heat of combustion per mole of sucrose.
+a.?44.9 kJ/mold.?6,150 kJ/molb.?44.9 kJ/mole.?6,150 kJ/molc.?1,030 kJ/mol
+
+ANS:	D	DIF:	Medium	REF:	5.6	
+OBJ:	Calculate thermochemical values using data from calorimetry experiments.
+MSC:	Applying
+
+	86.	A food sample was burned in a bomb calorimeter containing 524 mL water. How much thermal energy was produced when the temperature of the water and the calorimeter rose from 20.0?C to 25.0?C? The metal calorimeter had a heat capacity of 725 J/?C without the water. The specific heat capacity of water is 4.184 J/(g ?C).
+a.3.63 kJd.45.8 kJb.14.6 kJe.46.1 kJc.58.4 kJ
+
+ANS:	B	DIF:	Difficult	REF:	5.6	
+OBJ:	Calculate thermochemical values using data from calorimetry experiments.
+MSC:	Applying
+
+	87.	In an experiment, 74.3 g of metallic copper was heated to 100.0?C and then quickly dropped into 200.0 mL of water in a calorimeter. The heat capacity of the calorimeter with the water was 875 J/?C. The initial temperature of the calorimeter was 27.5?C, and the final temperature after addition of the metal was 29.8?C. What is the value of the molar heat capacity of copper?
+a.4.18 J/(mol ? ?C)d.12.3 J/(mol ? ?C)b.8.17 J/(mol ? ?C)e.24.5 J/(mol ? ?C)c.49.0 J/(mol ? ?C)
+
+ANS:	E	DIF:	Difficult	REF:	5.6	
+OBJ:	Determine a molar heat capacity using calorimetry data.	MSC:	Applying
+
+	88.	In an experiment, 30.0 g of metal was heated to 98.0?C and then quickly transferred to 50.0 g of water in a calorimeter. The heat capacity of the calorimeter with the water was 211 J/?C. The initial temperature of the calorimeter was 27.0?C, and the final temperature after addition of the metal was 32.5?C. What is the value of the specific heat capacity of the metal?
+a.0.140 J/(g ? ?C)d.0.591 J/(g ? ?C)b.83.0 J/(g ? ?C)e.29.5 J/(g ? ?C)c.0.540 J/(g ? ?C)
+
+ANS:	D	DIF:	Difficult	REF:	5.6	
+OBJ:	Determine a specific heat capacity using calorimetry data.		
+MSC:	Applying
+
+	89.	When a 13.0 g sample of NaOH(s) dissolves in 400.0 mL of water to produce 413.0 g of solution in a constant pressure calorimeter, the temperature of the water and reaction vessel changes from 22.6?C to 30.6?C. Assume that the specific heat capacity of the solution is 4.20 J/(g ? ?C), and that the heat capacity of the reaction vessel is 1.00 J/?C. What is the molar enthalpy of solution of sodium hydroxide (40.00 g/mol)?
+a.34 kJ/mold.43 kJ/molb.54 kJ/mole.14 kJ/molc.17 kJ/mol
+
+ANS:	D	DIF:	Difficult	REF:	5.6	
+OBJ:	Determine reaction enthalpies from calorimetry data.	MSC:	Applying
+
+	90.	Isooctane is a good model compound for gasoline. When 1.14 g of isooctane (C8H18, molar mass ? 114 g/mol) reacted with excess oxygen in a constant volume calorimeter, the temperature of the calorimeter increased by 5.83?C. The calorimeter consisted of two components: a steel vessel with a heat capacity of 1.00 kJ/?C and 2.00 L of water surrounding it. The density and specific heat capacity of water are 1.00 g/mL and 4.184 J/(g ? ?C), respectively. Use these data to determine the molar enthalpy of combustion of isooctane.
+a.?5.83 kJd.?48,800 Jb.?54.6 kJe.?48,800 kJc.?5,460 kJ
+
+ANS:	C	DIF:	Difficult	REF:	5.6	
+OBJ:	Determine reaction enthalpies from calorimetry data.	MSC:	Applying
+
+	91.	Isooctane is a good model compound for gasoline. When 1.14 g of isooctane (114 g/mol) reacts with excess oxygen in a constant pressure calorimeter, the temperature of the calorimeter increases by 10.0oC. The heat capacity of the calorimeter is 5.46 kJ/oC. Determine the molar enthalpy of combustion of isooctane.
+a.?5,460 kJ/mold.?54.6 kJ/molb.?54.6 kJ/mole.?5.46 kJ/molc.?5,460 kJ/mol
+
+ANS:	C	DIF:	Difficult	REF:	5.6	
+OBJ:	Determine reaction enthalpies from calorimetry data.	MSC:	Applying
+
+	92.	Which statement regarding combustion of a sample of gasoline in a bomb calorimeter is correct?
+a.Work is done by the system on the surroundings.b.Work is done by the surroundings on the system.c.No work is done because the volume cannot change.d.The work done by the system equals the energy produced by the system.e.The experiment provides a very accurate value for the enthalpy of combustion of gasoline.
+
+ANS:	C	DIF:	Easy	REF:	5.6	
+OBJ:	Identify how a bomb calorimeter differs from a standard calorimeter.
+MSC:	Understanding		
+
+	93.	Which statement regarding combustion of a sample of gasoline in a bomb calorimeter is correct?
+a.Work is done by the system on the surroundings.b.Work is done by the surroundings on the system.c.No work is done because the pressure is constant.d.The work done by the system equals the energy produced by the system.e.The experiment provides an accurate value for the change in energy, not the change in enthalpy.
+
+ANS:	E	DIF:	Easy	REF:	5.6	
+OBJ:	Identify how a bomb calorimeter differs from a standard calorimeter.
+MSC:	Understanding		
+
+	94.	Benzoic acid is used to determine the heat capacity of bomb calorimeters because it can be obtained in pure form and its energy of combustion is known very accurately (?26.43 kJ/g). Determine the heat capacity of a calorimeter that had a temperature increase of 9.199?C when 3.500 g of benzoic acid was used.
+a.5.061 kJ/?Cd.20.12 kJ/?Cb.10.06 kJ/?Ce.15.37 kJ/?Cc.2.032 kJ/?C
+
+ANS:	B	DIF:	Medium	REF:	5.6	
+OBJ:	Determine the heat capacity of a calorimeter (a.k.a. calorimeter constant) from experimental data.	MSC:	Applying
+
+	95.	Napthalene is often used to determine the heat capacity of bomb calorimeters because it can be obtained in pure form and its energy of combustion is known very accurately (?40.18 kJ/g). Determine the heat capacity of a calorimeter that had a temperature increase of 7.55?C when 1.250 g of napthalene was used.
+a.6.65 kJ/?Cd.8.36 kJ/?Cb.5.32 kJ/?Ce.10.8 kJ/?Cc.2.13 kJ/?C
+
+ANS:	A	DIF:	Medium	REF:	5.6	
+OBJ:	Determine the heat capacity of a calorimeter (a.k.a. calorimeter constant) from experimental data.	MSC:	Applying
+
+	96.	Predict the temperature change produced by burning 3.55 g benzoic acid in a bomb calorimeter that has a heat capacity of 20.12 kJ/?C. The enthalpy of combustion of benzoic acid is ?26.43 kJ/g.
+a.1.171?Cd.9.33?Cb.2.33?Ce.18.6?Cc.4.66?C
+
+ANS:	C	DIF:	Medium	REF:	5.6	
+OBJ:	Predict the temperature change in a calorimetry experiment.	
+MSC:	Applying
+
+	97.	The integrated circuits in your cell phone and computer are made from the semiconductor silicon. The silicon is obtained from a really inexpensive starting material, sand, which is primarily SiO2. One step in the purification of silicon is to separate it from solid impurities by forming the gas silicon tetrachloride. Given the following reactions, what is the overall enthalpy change in converting 1.00 mol of silicon dioxide into pure silicon?
+Reaction?H? (kJ)SiO2(s)  2C(s)  Si(impure s)  2CO(g)?690Si(impure s)  2Cl2(g)  SiCl4(g) ?657SiCl4(g)  2Mg(s)  2MgCl2(s)  Si(s)?625
+a.?1,972 kJd.?592 kJb.?1,972 kJe.?625 kJc.?592 kJ
+
+ANS:	C	DIF:	Easy	REF:	5.7	
+OBJ:	Relate reactions to each other, and calculate enthalpies of reaction using Hess’s law.
+MSC:	Applying
+
+	98.	Use the following information to determine the standard enthalpy change when 1 mol of PbO(s) is formed from lead metal and oxygen gas.
+PbO(s)  C(graphite)  Pb(s)  CO(g)         ?H ? 107 kJ
+2C(graphite)  O2(g)  2CO(g)             ?H? ? ?222 kJ
+a.? 436 kJd.?329 kJb.?436 kJe.?115 kJc.?218 kJ
+
+ANS:	C	DIF:	Difficult	REF:	5.7	
+OBJ:	Relate reactions to each other, and calculate enthalpies of reaction using Hess’s law.
+MSC:	Applying
+
+	99.	Use the following information to determine the enthalpy for the reaction shown below.
+CS2(l)  3O2(g)  CO2(g)  2SO2(g)         ?H? ? ?
+C(graphite)  O2(g)  CO2(g)             ?H? ? ?393.5 kJ
+S(s)  O2(g)  SO2(g)             ?H? ? ?296.8 kJ
+C(graphite) ? 2S(s)  CS2(l)             ?H? ? 87.9 kJ
+a.?1075 kJd.?778 kJb.?1075 kJe.?602 kJc.?778 kJ
+
+ANS:	A	DIF:	Difficult	REF:	5.7	
+OBJ:	Relate reactions to each other, and calculate enthalpies of reaction using Hess’s law.
+MSC:	Applying
+
+	100.	Use the following information to determine the enthalpy for the reaction shown below.
+S(s) ? O2(g) ? SO2(g) ?H? ? ?
+S(s)  O2(g)  SO3(g)            
+2SO2(g)  O2(g)  2SO3(g)             
+a.?593 kJd.?296 kJb.?593 kJe.?989 kJc.?296 kJ
+
+ANS:	C	DIF:	Medium	REF:	5.7	
+OBJ:	Relate reactions to each other, and calculate enthalpies of reaction using Hess’s law.
+MSC:	Applying
+
+	101.	Use the following information to determine the enthalpy for the reaction shown below.
+CH4(g) ? H2O(g) ? CO(g) ? 3H2(g)             ?H? ? ?
+2C(s) ? 2H2O(g) ? CH4(g) ? CO2(g)      ?H? ? 15.3 kJ
+C(s) ? H2O(g) ?  CO(g) ? H2(g)               ?H? ? 131.3 kJ
+CO(g) ? H2O(g) ? CO2(g) ? H2(g)             ?H? ? ?41.2 kJ
+a.?206.1 kJd.?74.8 kJb.?206.1 kJe.?149.6 kJc.?74.8 kJ
+
+ANS:	B	DIF:	Medium	REF:	5.7	
+OBJ:	Relate reactions to each other, and calculate enthalpies of reaction using Hess’s law.
+MSC:	Applying
+
+	102.	Indicate which of the following is not an element in its standard state at 25C and 1 atm.
+a.O2(g)d.N(g)b.H2(g)e.C(s, graphite)c.Ne(g)
+
+ANS:	D	DIF:	Easy	REF:	5.8	
+OBJ:	Identify the standard thermodynamic state of a substance.		
+MSC:	Understanding		
+
+	103.	For which reaction below does the enthalpy change under standard conditions correspond to a standard enthalpy of formation?
+a.2H2(g)  C(s)  CH4(g)d.CO(g)  H2O(g)  CO2(g)  H2(g)b.CO2(g)  C(s)  2CO(g)e.CO2(g)  H2(g)  CO(g)  H2O(g)c.2NO2(g)  N2O4(g)
+
+ANS:	A	DIF:	Easy	REF:	5.8	
+OBJ:	Write or identify the reaction associated with an enthalpy of formation.
+MSC:	Understanding		
+
+	104.	For which reaction below does the enthalpy change under standard conditions correspond to a standard enthalpy of formation?
+a.CO(g)  H2O(g)  CO2(g)  H2(g)b.SO2(g)  O2(g)  SO3(g)c.N2(g)  2O2(g)  2NO2(g)d.H2(g)  N2(g)  O2(g)  HNO3(g)e.CH4(g)  2O2(g)  CO2(g)  2H2O(g)
+
+ANS:	D	DIF:	Medium	REF:	5.8	
+OBJ:	Write or identify the reaction associated with an enthalpy of formation.
+MSC:	Understanding		
+
+	105.	Which substance has an enthalpy of formation equal to zero at 25?C and 1 atm?
+a.N2(g)d.N(g)b.N2(l)e.N(s)c.N2(s)
+
+ANS:	A	DIF:	Easy	REF:	5.8	
+OBJ:	Write or identify the reaction associated with an enthalpy of formation.
+MSC:	Understanding		
+
+	106.	In terms of the enthalpy of formation, which of the following compounds is the most unstable compared to its elements under standard conditions?
+a.KCl(s), 435.9 kJ/mold.NiO(s), 239.7 kJ/molb.PH3(g), 5.4 kJ/mole.ICl(g), 17.8 kJ/molc.Fe3O4(s), 1,117.1 kJ/mol
+
+ANS:	E	DIF:	Easy	REF:	5.8	
+OBJ:	Relate relative stabilities to enthalpies of formation.	MSC:	Understanding
+
+	107.	In terms of the enthalpy of formation, which of the following compounds is most stable relative to its elements under standard conditions?
+a.PbBr2(s), 277.4 kJ/mold.H2Se(g), 29.7 kJ/molb.O3(g),?142.3 kJ/mole.ICl(g), 17.8 kJ/molc.SO2(g), 269.9 kJ/mol
+
+ANS:	A	DIF:	Easy	REF:	5.8	
+OBJ:	Relate relative stabilities to enthalpies of formation.	MSC:	Understanding
+
+	108.	Determine the enthalpy of formation for glucose (C6H12O6) given the following enthalpies of formation (CO2(g), ?393.5 kJ/mol; H2O(l), ?285.8 kJ/mol)  and the enthalpy for the reaction shown below. 
+C6H12O6(s)  6O2 (g)  6CO2(g)  6H2O(l)    ?H? 2801 kJ
+a.1275 kJ/mold.2122 kJ/molb.1275 kJ/mole.875 kJ/molc.2122 kJ/mol
+
+ANS:	A	DIF:	Easy	REF:	5.8	
+OBJ:	Relate enthalpies of formation and enthalpies of reaction.		
+MSC:	Applying
+
+	109.	Determine the standard enthalpy of formation for NO given the following information about the formation of NO2 under standard conditions, and (NO2)  33.2 kJ/mol.
+           2NO(g)  O2(g)  2NO2(g)           ?Hrxn 114.2 kJ
+a.90.3 kJ/mold.180.6 kJ/molb.90.3 kJ/mole.73.7 kJ/molc.147.4 kJ/mol
+
+ANS:	A	DIF:	Medium	REF:	5.8	
+OBJ:	Relate enthalpies of formation and enthalpies of reaction.		
+MSC:	Applying
+
+	110.	Determine the enthalpy for the following reaction, given ? (NH3(g)) ? ?46.1 kJ/mol,?? (NO(g)) ? 90.3 kJ/mol, and ? (H2O(g)) ? ?241.8 kJ/mol. 
+         4NH3(g)  5O2(g)  4NO(g)  6H2O(g)              ?Hrxn ? ? kJ
+a.?1274 kJ/mold.?905.2 kJ/molb.?1,996 kJ/mole.?105.4 kJ/molc.?1,274 kJ/mol
+
+ANS:	D	DIF:	Medium	REF:	5.8	
+OBJ:	Relate enthalpies of formation and enthalpies of reaction.		
+MSC:	Applying
+
+	111.	Coal is converted into cleaner, more transportable fuels by burning it with oxygen to produce carbon monoxide. The carbon monoxide then is reacted with hydrogen using a catalyst to produce methane and water. Is the reaction between CO and H2 exothermic or endothermic, and what is the change in enthalpy for it? The enthalpies of formation of the reactants and products are given below.
+Molecule? in kJ/molCO?110 H2 0 CH4  ?75H2O?242
+a.exothermic, ?317 kJ/mold.endothermic, ?427 kJ/molb.endothermic, ?207 kJ/mole.exothermic, ?207 kJ/molc.exothermic, ?427 kJ/mol
+
+ANS:	E	DIF:	Difficult	REF:	5.8	
+OBJ:	Relate enthalpies of formation and enthalpies of reaction.		
+MSC:	Applying
+
+	112.	Given the standard enthalpies of formation for the following substances, determine the reaction enthalpy for the following reaction.
+2N2H4(g)  2NO2(g)  3N2(g)  4H2O(g)           ?Hrxn ? ? kJ
+Substance?H in kJ/molN2H4(g) ?95.4NO2(g)  ?33.1H2O(g) ?241.8
+a.?1,220 kJd.?967 kJ/molb.?1,220 kJe.?257 kJ/molc.?967 kJ/mol
+
+ANS:	B	DIF:	Medium	REF:	5.8	
+OBJ:	Relate enthalpies of formation and enthalpies of reaction.		
+MSC:	Applying
+
+	113.	Ethanol is being promoted as renewable biofuel. Use the standard enthalpies of formation below to determine the standard enthalpy of combustion of ethanol.
+Substance?H in kJ/molCH3CH2OH(l)?277CO2(g)?394H2O(l)?286
+a.?1,280 kJ/mold.?1,430 kJ/molb.?400 kJ/mole.?1,370 kJ/molc.?400 kJ/mol
+
+ANS:	E	DIF:	Medium	REF:	5.8	
+OBJ:	Relate enthalpies of formation and enthalpies of reaction.		
+MSC:	Applying
+
+	114.	Fuel value is ________
+a.the cost of energy in kJ/$.b.the amount of energy contained in 1 mol of a substance (kJ/mol).c.the energy released when 1 g of a substance is burned (kJ/g).d.the energy released when 1 g of a substance is formed (kJ/g).e.the energy released when 1 L of a substance is burned (kJ/L).
+
+ANS:	C	DIF:	Easy	REF:	5.9	
+OBJ:	Define the terms fuel value, fuel density, and food value.	MSC:	Remembering
+
+	115.	Fuel density is ________
+a.the cost of energy in kJ/$.b.the amount of energy contained in 1 mol of a substance (kJ/mol).c.the energy released when 1 g of a substance is burned (kJ/g).d.the energy released when 1 g of a substance is formed (kJ/g).e.the energy released when 1 L of a substance is burned (kJ/L).
+
+ANS:	E	DIF:	Easy	REF:	5.9	
+OBJ:	Define the terms fuel value, fuel density, and food value.	MSC:	Remembering
+
+	116.	Which of the following hydrocarbons has the greatest fuel value?
+a.C5H12d.C6H14b.C7H16e.C10H8c.C6H12
+
+ANS:	A	DIF:	Easy	REF:	5.9	
+OBJ:	Determine relative fuel values from chemical formulas.	MSC:	Understanding
+
+	117.	Which of the following hydrocarbons has the lowest fuel value?
+a.C3H8d.C8H18b.C9H20e.CH4c.C14H30
+
+ANS:	E	DIF:	Easy	REF:	5.9	
+OBJ:	Determine relative fuel values from chemical formulas.	MSC:	Understanding
+
+	118.	Which of the following substances will release the most energy during combustion in air?
+a.1 mol of C6H14b.1 mol of C2H6c.1 g of C6H14d.1 g of C2H6e.Cannot answer without more information.
+
+ANS:	A	DIF:	Medium	REF:	5.9	
+OBJ:	Determine relative fuel values from chemical formulas.	MSC:	Understanding
+
+	119.	Ethanol (CH3CH2OH) has been suggested as an alternative fuel source. Ethanol’s enthalpy of combustion is ?Hcomb ? ?1,368 kJ/mol, and its density is 0.789 g/mL. What is the fuel value of ethanol (kJ/g)?
+a.3.75 kJ/gd.23.4 kJ/gb.1,079 kJ/ge.29.7 kJ/gc.1,734 kJ/g
+
+ANS:	E	DIF:	Medium	REF:	5.9	
+OBJ:	Determine the fuel value (kJ/g) for a given substance.	MSC:	Applying
+
+	120.	Which of the following fuels has the highest fuel value (kJ/g)?
+a.natural gas, CH4(g), 16.0 g/mol, Hcomb 801 kJ/molb.ethanol, CH3CH2OH(l), 46.1 g/mol, Hcomb 1,368 kJ/molc.heating oil, C16H34(l), 226 g/mol, Hcomb 10,800 kJ/mold.coal, C135H96O9NS(l), 1906 g/mol, Hcomb 44,000 kJ/mole.wood, C6H12O6(l), 180 g/mol, Hcomb 2,540 kJ/mol
+
+ANS:	A	DIF:	Medium	REF:	5.9	
+OBJ:	Determine the fuel value (kJ/g) for a given substance.	MSC:	Applying
+
+	121.	Which of the following fuels has the lowest fuel value (kJ/g)?
+a.natural gas, CH4(g), 16.0 g/mol, Hcomb 801 kJ/molb.ethanol, CH3CH2OH(l), 46.1 g/mol, Hcomb 1,368 kJ/molc.heating oil, C16H34(l), 226 g/mol, Hcomb 10,800 kJ/mold.coal, C135H96O9NS(s), 1906 g/mol, Hcomb 44,000 kJ/mole.wood, C6H12O6(s), 180 g/mol, Hcomb 2,540 kJ/mol
+
+ANS:	E	DIF:	Medium	REF:	5.9	
+OBJ:	Determine the fuel value (kJ/g) for a given substance.	MSC:	Applying
+
+	122.	Ethanol (CH3CH2OH) has been suggested as an alternative fuel source. Ethanol’s enthalpy of combustion is ?Hcomb ? ?1,368 kJ/mol, and its density is 0.789 g/mL. What is the fuel density of ethanol (kJ/mL)?
+a.3.75 kJ/mLd.23.4 kJ/mLb.12.8 kJ/mLe.37.5 kJ/mLc.1.28 kJ/mL
+
+ANS:	D	DIF:	Medium	REF:	5.9	
+OBJ:	Determine the fuel density (kJ/L) for a given liquid fuel.	MSC:	Applying
+
+	123.	The enthalpy of combustion of table sugar (sucrose, C12H22O11, 342.3 g/mol) is ?5,643 kJ/mol. What is the food value (Cal/g) of sucrose? (1 Cal ? 4.184 kJ)
+a.3.94 Cal/gd.2.92 Cal/gb.11.1 Cal/ge.1,350 Cal/gc.16.5 Cal/g
+
+ANS:	A	DIF:	Medium	REF:	5.9	
+OBJ:	Determine the food value (kJ/g or Cal/g) from calorimetry data.	
+MSC:	Applying
+
+	124.	Suppose you eat a one-third pound hamburger without bread, cheese, or other items. Approximately how long would you need to walk to use up the calories in the hamburger? Assume the mass of the hamburger is 150 g with 3.6 Cal/g and that walking requires 2.5 times a basal metabolic rate of           280 kJ/hr.
+a.2 hoursd.5 hoursb.3 hourse.6 hoursc.4 hours
+
+ANS:	B	DIF:	Medium	REF:	5.9	
+OBJ:	Compare or use fuel value, fuel density, or food value appropriately in analysis and calculations.	MSC:	Applying
+
+	125.	Lightweight camping stoves typically use a mixture of C5 and C6 hydrocarbons, which is called white gas. Assuming white gas is 100% C5H12 with an enthalpy of combustion of ?3,550 kJ/mol, how many grams of it must be used to heat 1.50 L of water from 20?C to 80?C? Assume all the energy is used to heat the water.
+a.8.96 gd.6.99 gb.7.64 ge.10.73 gc.9.65 g
+
+ANS:	B	DIF:	Medium	REF:	5.9	
+OBJ:	Compare or use fuel value, fuel density, or food value appropriately in analysis and calculations.	MSC:	Applying
+
+	126.	Ethanol (CH3CH2OH) has been suggested as an alternative fuel source. Ethanol’s enthalpy of combustion is ?Hcomb ? ?1,368 kJ/mol. What volume of ethanol (d ? 0.789 g/mL) is required to produce the same amount of energy as 1 gallon of gasoline, which can be modeled as isooctane (C8H18) with an energy density of 32.9 kJ/mL? (1 gal ? 3.785 L; d ? 0.703 g/mL)
+a.1.41 gald.0.85 galb.1.00 gale.1.15 galc.0.90 gal
+
+ANS:	A	DIF:	Difficult	REF:	5.9	
+OBJ:	Compare or use fuel value, fuel density, or food value appropriately in analysis and calculations.	MSC:	Applying
+
+	127.	In a Reuters news report dated February 3, 2010, President Obama is quoted as saying, “By 2022 we will more than double the amount of biofuels we produce to 36 billion gallons, which will decrease our dependence on foreign oil by hundreds of millions of barrels per year.” Use the following information to determine the fraction of our projected 2022 total energy demand this target represents to assess its significance. (M ? mega ? 106)
+     U.S. projected annual energy demand in 2022: equivalent of 22 ? 103 Mbarrels of oil
+     Energy density of oil: 5.9  MJ/barrel
+     Energy density of biofuels: 100 MJ/gal
+     Mass density of petroleum: 900 g/L
+     Mass density of biofuels: 800 g/L
+     1 gal ? 3.785 L
+a.2.8%d.4.5%b.3.6%e.1.8%c.9.2%
+
+ANS:	A	DIF:	Difficult	REF:	5.9	
+OBJ:	Compare or use fuel value, fuel density, or food value appropriately in analysis and calculations.	MSC:	Applying
+
+	128.	In a Reuters news report dated February 3, 2010, President Obama is quoted as saying, “By 2022 we will more than double the amount of biofuels we produce to 36 billion gallons, which will decrease our dependence on foreign oil by hundreds of millions of barrels per year.” Use the following information to estimate the fraction of farmland in the United States that will be needed to meet this target in order to assess the impact on other uses of farmland, such as the production of food. 
+     (M ? mega ? 106)
+     Farmland in the U.S. ? 1.4  square miles
+     Energy density of biofuels ? 100 MJ/gal
+     Annual biofuel production from farmland ? 1,000 gal/acre
+     640 acres ? 1 square mile 
+     1 gal ? 3.785 L
+     Mass density of biofuels: 800 g/L
+a.0.4%d.10%b.1.0%e.40%c.4.0%
+
+ANS:	C	DIF:	Difficult	REF:	5.9	
+OBJ:	Compare or use fuel value, fuel density, or food value appropriately in analysis and calculations.	MSC:	Applying
+
+	129.	There is concern that the combustion of fossil fuels such as coal and petroleum contributes to climate change by adding carbon dioxide to the atmosphere. Electric cars are being promoted as a way to address this situation by reducing the use of gasoline. Yet most electricity is produced by coal-fired power plants. Several factors need to be considered in determining whether electric cars actually are helpful in this regard. One is the environmental value of these fuels. Estimate the environmental value of coal compared to gasoline from the following information. The environmental value is defined as the amount of energy obtained per mole of carbon dioxide produced, so a larger environmental value is better.
+SubstanceModel CompoundMolar Mass?H?combustioncoalC135H96O9NS1,906 g/mol44,000 kJ/molgasolineC8H18114 g/mol5,460 kJ/mol
+a.coal ? 23.1 kJ/mol, gasoline ? 47.9 kJ/mol is betterb.coal ? 386 kJ/mol is better, gasoline ? 2.86 kJ/molc.coal ? 182 kJ/mol is better, gasoline ? 152 kJ/mold.coal ? 326 kJ/mol, gasoline ? 683 kJ/mol is bettere.coal ? 527 kJ/mol is better, gasoline ? 224 kJ/mol
+
+ANS:	D	DIF:	Medium	REF:	5.9	
+OBJ:	Compare or use fuel value, fuel density, or food value appropriately in analysis and calculations.	MSC:	Applying
+
+SHORT ANSWER
+
+	1.	Describe the difference between potential energy and kinetic energy, and give an example of each.
+
+ANS:	
+Potential energy is associated with the position of an object when a force is acting on it. For example, an apple in a tree has potential energy because it is being pulled down by the force of gravity and is being held up by the tree. Kinetic energy is associated with the motion of an object. For example, someone going downhill on a skateboard has kinetic energy.
+
+DIF:	Easy	REF:	5.2	
+OBJ:	Distinguish between potential energy and kinetic energy.	MSC:	Remembering
+
+	2.	Explain what is meant by the term state function, and give an example of something that is a state function and something that is not a state function.
+
+ANS:	
+A state function is a property of a system that depends only on the state of the system and does not depend on the path taken to reach that state. For example, the temperature of the room is a state function, but the cost of heating the room to that temperature is not a state function.
+
+DIF:	Easy	REF:	5.2	
+OBJ:	Define the term state function and provide examples.	MSC:	Remembering
+
+	3.	When ammonium nitrate (NH4NO3)(s) is used in explosives, it decomposes to N2(g), O2(g), and H2O(g). Write a balanced reaction equation for the decomposition of ammonium nitrate, and determine the standard enthalpy of reaction using standard enthalpies of formation: 
+solid ammonium nitrate ? ?366 kJ/mol and water vapor ? ?242 kJ/mol.
+
+ANS:	
+2NH4NO3(s)  2N2(g)  O2(g)  4H2O(g)
+?Hrxn ? ?236 kJ
+
+DIF:	Medium	REF:	5.2	
+OBJ:	Relate enthalpies of formation and enthalpies of reaction.		
+MSC:	Applying
+
+	4.	The diagram below shows three ion pairs: (a) a doubly charged anion and cation, (b) a singly charged anion and cation, and (c) two doubly charged anions.
+  (I)   Label each pair to identify the electrostatic interaction as attractive or as repulsive.
+ (II)  Which pair has the largest electrostatic interaction energy that is positive?
+(III)  Which pair has the largest electrostatic interaction energy that is negative?
+(IV)  Which pair has the smallest electrostatic interaction energy?
+
+                           
+     (a)			       (b)			          (c)
+
+ANS:	
+I. (a) and (b) are attractive, (c) is repulsive.  II. (c)  III. (a)  IV. (b)
+
+DIF:	Medium	REF:	5.2	
+OBJ:	Describe how the electrostatic potential energy varies with the charge on two particles and the distance between them.		MSC:	Understanding		
+
+	5.	State the first law of thermodynamics. Describe two situations where ?Esys could be negative.
+
+ANS:	
+The first law of thermodynamics states that the energy change for a closed system (defined by ) and its surroundings (?Esurr ) are equal in magnitude but opposite in sign, also expressed as 
+     Two possible scenarios where???Esys could be negative include: 1) when q and w are both negative (heat is given off by the system and work is done by the system) or 2)  q is negative and no work is done by the system (heat is given off by the system).
+
+DIF:	Easy	REF:	5.3	OBJ:	State the first law of thermodynamics.
+MSC:	Understanding		
+
+	6.	During the expansion of steam inside the cylinder of a steam engine, the piston moves and the volume of the cylinder increases by 45 mL. The external pressure is a constant 4 atm. Calculate the change in the energy (in joules) of the steam caused by doing this work. Conversion factors are provided on the information page.
+
+ANS:	
+?18.2 J
+
+DIF:	Medium	REF:	5.3	
+OBJ:	Explain what is meant by pressure–volume work, and calculate pressure–volume work for a given situation.	MSC:	Applying
+
+	7.	Describe the difference between the change in the internal energy (?E) of a system and the change in enthalpy (?H). Begin your description with the definition of enthalpy change.
+
+ANS:	
+The enthalpy change is the energy that is transferred at constant pressure. The difference between ?H and ?E is due to pressure–volume work that is done. If the system expands in an exothermic process, then the enthalpy change is ?q, which is the energy transferred, but the energy change is ?q ?w, which includes the work that was done on the surroundings.
+
+DIF:	Medium	REF:	5.4	OBJ:	Define the terms enthalpy and enthalpy change.
+MSC:	Understanding		
+
+	8.	Sports trainers use cold packs containing ammonium nitrate for injured athletes. Calculate the change in temperature when 47 g of ammonium nitrate (NH4NO3, 80.1 g/mol) dissolves in 100 g water. Assume the specific heat of the solution is 4.5 J/(g ? ?C).
+NH4NO3(s)  NH4?(aq)  NO3?(aq)          ?H ? 21.1 kJ/mol
+
+ANS:	
+?19?C
+
+DIF:	Medium	REF:	5.5	
+OBJ:	Use heat capacity, specific heat capacity, and molar heat capacity appropriately in analysis or calculations.	MSC:	Applying
+
+	9.	To cool your 250 mL of coffee at 90?C, you put a 100 g metal spoon in a glass of ice water to lower its temperature to 0?C, and then you put the spoon in the coffee. After thermal equilibrium has been reached, what is the final temperature of your coffee? Assume energy is exchanged only between the spoon and the coffee. The heat capacity of the metal spoon is 80 J/?C. Assume the specific heat and density of coffee are the same as that of water, 4.18 J/(g ? ?C) and 1.00 g/mL.
+
+ANS:	
+84?C
+
+DIF:	Medium	REF:	5.5	
+OBJ:	Calculate the final temperature when two objects come to thermal equilibrium.
+MSC:	Applying
+
+	10.	Using the data shown below for water, determine in the following heating curve what region the water will be in when 50 g of ice at ?25?C is provided with 35 kJ of energy.
+                                           
+
+Boiling point373 KMelting point273 KEnthalpy of vaporization2,260 J/gEnthalpy of fusion334 J/gSpecific heat capacity (solid)2.11 J/(g ? K)Specific heat capacity (liquid)4.18 J/(g ? K)Specific heat capacity (gas)2.08 J/(g ? K)
+
+ANS:	
+Region III
+
+DIF:	Difficult	REF:	5.5	
+OBJ:	Calculate the energy needed to raise or lower the temperature of a substance through phase transitions.	MSC:	Applying
+
+	11.	The complete combustion of 2.500 g of cinnamaldehyde (C9H8O, 132.16 g/mol), which is a component in cinnamon, produces an increase in temperature of 26.65?C in a bomb calorimeter (Ccal ? 3.640 kJ/?C). What is the molar enthalpy of combustion of cinnamaldehyde in kJ/mol?
+
+ANS:	
+?5,128 kJ/mol
+
+DIF:	Medium	REF:	5.6	
+OBJ:	Determine reaction enthalpies from calorimetry data.	MSC:	Applying
+
+	12.	Benzoic acid is used to determine the heat capacity of bomb calorimeters because it can be obtained in pure form, and its energy of combustion is known very accurately (26.43 kJ/g). Determine the heat capacity of a calorimeter that had a temperature increase of 8.199?C when 2.500 g of benzoic acid was used.
+
+ANS:	
+8.059 kJ/?C
+
+DIF:	Medium	REF:	5.6	
+OBJ:	Determine the heat capacity of a calorimeter (a.k.a. calorimeter constant) from experimental data.	MSC:	Applying
+
+	13.	Given the following thermochemical equation detailing the combustion of methane
+           CH4(g)  2O2(g)   CO2(g)  2H2O(g)    ?Hrxn ? ?802 kJ/mol CH4
+determine the amount of energy released when 25 g of methane undergoes combustion.
+
+ANS:	
+1,250 kJ
+
+DIF:	Medium	REF:	5.6	
+OBJ:	Use thermochemical equations to determine the amount of energy released during a reaction or the mass of a substance needed to generate a given amount of energy.	
+MSC:	Applying
+
+	14.	State Hess’s law as it applies to changes in enthalpy.
+
+ANS:	
+The enthalpy change for a reaction that is the sum of two or more other reactions is equal to the sum of the enthalpy changes for those reactions.
+
+DIF:	Easy	REF:	5.7	
+OBJ:	State Hess’s law, explain how it is consistent with the conservation of energy, and explain why it only would work with quantities that are state functions, such as enthalpy.
+MSC:	Remembering		
+
+	15.	Use the following information to determine the enthalpy for the reaction shown below.
+CS2(l)  3O2(g)  CO2(g)  2SO2(g)         ?Ho ? ?
+
+C(graphite)  O2(g)  CO2(g)            ?Ho ? ?393.5 kJ
+S(s)  O2(g)  SO2(g)                        ?Ho ? ?296.8 kJ
+C(graphite)  2S(s)  CS2(l)             ?Ho ? 87.9 kJ
+
+ANS:	
+?Ho ? ?1,075 kJ
+
+DIF:	Difficult	REF:	5.7	
+OBJ:	Relate reactions to each other, and calculate enthalpies of reaction using Hess’s law.
+MSC:	Applying
+
+	16.	Determine the enthalpy for the following reaction, given (NH3(g)) ? ?46.1 kJ/mol, ?(NO(g)) 90.3 kJ/mol, and (H2O(g)) 241.8 kJ/mol. 
+4NH3(g)  5O2(g)  4NO(g)  6H2O(g)           ?Hrxn  ? kJ
+
+ANS:	
+?905.2 kJ/mol
+
+DIF:	Medium	REF:	5.8	
+OBJ:	Relate enthalpies of formation and enthalpies of reaction.		
+MSC:	Applying
+
+	17.	Given the standard enthalpies of formation for the following substances, determine the reaction enthalpy for the following reaction.
+2N2H4(g)  2NO2(g)  3N2(g)  4H2O(g)           ?Hrxn ? ? kJ
+Substance?H in kJ/molN2H4(g) ?95.4NO2(g)  ?33.1H2O(g) ?241.8
+
+ANS:	
+?1,220 kJ
+
+DIF:	Medium	REF:	5.8	
+OBJ:	Relate enthalpies of formation and enthalpies of reaction.		
+MSC:	Applying
+
+	18.	Write the equation that corresponds to the standard enthalpy of formation for each of the following compounds: a) NaI(s),  b) HClO4(g),  and  c) CH3OCH3(g)
+
+ANS:	
+
+a)  Na(s)  I2(s) ??NaI(s)
+b)  H2(g) ?Cl2(g)  2O2(g) ?HClO4(g)
+c) 2C(s, graphite)  3H2(g) ?O2(g) ?CH3OCH3(g)
+
+DIF:	Medium	REF:	5.8	
+OBJ:	Write or identify the reaction associated with a standard enthalpy of formation.
+MSC:	Understanding		
+
+	19.	Complete the table below, and identify the fuel with the highest fuel value.
+
+SubstanceModel CompoundMolar Mass (g/mol)Enthalpy of Combustion (kJ/mol)Fuel Value (kJ/g)Natural gasCH416.04801Petroleum gasC3H844.102,040Heating oilC14H34226.010,800CoalC135H96O9NS1,90644,000WoodC6H12O6180.02,540
+
+ANS:	
+Fuel values in kJ/g: Natural gas ? 49.9, Petroleum gas ? 46.3, Heating oil ? 47.8, Coal ? 23.1, Wood ? 14.1. The highest is natural gas, which is mostly methane.
+
+DIF:	Medium	REF:	5.9	
+OBJ:	Determine the fuel value (kJ/g) for a given substance.	MSC:	Applying
+
+	20.	C8H18 (114 g/mol, d ? 0.69 g/mL) is a good model for gasoline, and C16H34 (226 g/mol, d ? 0.85 g/mL) is a good model for diesel fuel. These compounds have enthalpies of combustion of 5,460 kJ/mol and 10,800 kJ/mol, respectively. Calculate the fuel density (kJ/mL) of these compounds, and determine how many times more valuable diesel fuel is in terms of its energy content as measured by fuel density.
+
+ANS:	
+Energy densities: Gasoline ? 33 kJ/mL, Diesel fuel ? 41 kJ/mL; 
+the ratio gives the value factor ? 1.2
+
+DIF:	Difficult	REF:	5.9	
+OBJ:	Determine the fuel density (kJ/L) for a given liquid fuel.	MSC:	Applying
+
+	21.	Motor fuels are mixtures of hydrocarbons, but they can be characterized by their average properties. Gasoline (114 g/mol average, d ? 0.69 g/mL) and diesel fuel (226 g/mol average, d ? 0.85 g/mL) have average enthalpies of combustion of 5,650 kJ/mol and 10,200 kJ/mol, respectively. Calculate the fuel density (kJ/mL) of these compounds, and determine how many times more valuable diesel fuel is in terms of its energy content as measured by fuel density.
+
+ANS:	
+Energy densities: Gasoline ? 34 kJ/mL, Diesel fuel ? 38 kJ/mL; 
+the ratio gives the value factor ? 1.1
+
+DIF:	Difficult	REF:	5.9	
+OBJ:	Determine the fuel density (kJ/L) for a given liquid fuel.	MSC:	Applying
+
+	22.	The basal metabolic rate (BMR) is the minimum energy intake required to maintain a body that is awake and at rest. Although the rate varies with age, gender, health, and body mass, a reasonable value is 1,600 Cal per day. Walking can require 2.5 times the BMR, and exertion in work or sports can require 7 times the BMR. Using this information, calculate the energy expended by someone walking at a speed of 3.0 mph and determine how far she could walk with the energy from a quarter-pound hamburger (125 g) that has a food value of 3.6 Cal/g.
+
+ANS:	
+(2.5  1,600 Cal/day)(1 day/24 h)  166 Cal/h
+(125 g  3.6 Cal/g)/166 Cal/h  2.71 h
+2.71 h  3.0 mph  8.1 mi
+
+DIF:	Difficult	REF:	5.9	
+OBJ:	Compare or use fuel value, fuel density, or food value appropriately in analysis and calculations.	MSC:	Applying
